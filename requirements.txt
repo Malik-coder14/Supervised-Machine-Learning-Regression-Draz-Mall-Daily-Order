@@ -1,0 +1,4 @@
+spandas
+scikit-learn
+streamlit
+matplotlib
